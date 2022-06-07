@@ -31,6 +31,7 @@ This software reproduces the results from the following:
 
  In order to run the demo files, you will need to:
  - Download and install Tensorlab 3.0: https://www.tensorlab.net
+ - Download the dataset from the AVIRIS website: https://aviris.jpl.nasa.gov/dataportal/
  
   Please quote the corresponding paper if you decide to use these codes.
 
@@ -62,8 +63,8 @@ The table below summarized what does what
 
 | Name                       | Content                                           |
 |----------------------------|---------------------------------------------------|
-| ```fusion_isabella.m```     | Simulations for Isabella Lake dataset            |
-| ```fusion_lockwood.m```       | Simulations for Lockwood dataset               |
+| ```fusion_isabella.m```    | Simulations for Isabella Lake dataset             |
+| ```fusion_lockwood.m```    | Simulations for Lockwood dataset                  |
 | ```choice_ranks.m```       | plots R-SNR as a function of the multilinear ranks|
 
 
